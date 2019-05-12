@@ -3,7 +3,7 @@
   "short_name": "geoTangle",
   "description": "Tool to order and download geo data.",
   "lang": "de-DE",
-  "start_url": "./geotangle.html",
+  "start_url": "geotangle.html",
   "display": "standalone",
   "orientation": "any",
   "theme_color": "#202020",
