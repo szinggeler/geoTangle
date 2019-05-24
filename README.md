@@ -1,3 +1,3 @@
 # geoTangle
 
-[Open Data Shop](geotangle.html)
+[Open Data Shop](https://szinggeler.github.io/geotangle/geotangle.html)
