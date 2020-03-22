@@ -1,19 +1,19 @@
-# geoTangle
-[Open Data Shop](https://szinggeler.github.io/geoTangle/geotangle.html)
+## [geoTangle - Open Data Shop](https://szinggeler.github.io/geoTangle/geotangle.html)
 
-# Changelog
+# CHANGELOG
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-- Use WFS on the perimeter map instead of WMS for the choosen products if available.
+- Use WFS on the perimeter map instead of WMS for the chosen products if available.
 - Better default names for saved orders (perimeter-type? location?, product?, formats?)
 
-## [1.0.4] - 2020-03-14
+## [1.0.4] - 2020-03-22
 ### Added
 - With URL parameter **_'?page=...'_** you can now choose the initial page of the application. Possible values are: **_home, perimeter, products, shoppingcart, orders, settings, importexport, about_**. Default page is **_home_**. If there is a valid **_order=..._** parameter, the **_shoppingcart_** view is selected.
+- Extended ERROR-Information on separate Page
 
 ## [1.0.3] - 2020-03-04
 ### Added
