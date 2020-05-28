@@ -10,6 +10,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Use WFS on the perimeter map instead of WMS for the chosen products if available.
 - Better default names for saved orders (perimeter-type? location?, product?, formats?)
 
+## [1.0.5] - 2020-05-28
+### Added
+- Upgrade to new versions of elm packages
+
 ## [1.0.4] - 2020-03-22
 ### Added
 - With URL parameter **_'?page=...'_** you can now choose the initial page of the application. Possible values are: **_home, perimeter, products, shoppingcart, orders, settings, importexport, about_**. Default page is **_home_**. If there is a valid **_order=..._** parameter, the **_shoppingcart_** view is selected.
