@@ -10,6 +10,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Use WFS on the perimeter map instead of WMS for the chosen products if available.
 - Better default names for saved orders (perimeter-type? location?, product?, formats?)
 
+## [1.0.6] - 2021-05-16
+### Added
+- Product details with link to [GIS-Browser](https://maps.zh.ch) with highlighted order area
+- Product details with more informations from [Geolion](https://geolion.zh.ch)-Service
+
 ## [1.0.5] - 2020-05-28
 ### Added
 - Upgrade to new versions of elm packages
