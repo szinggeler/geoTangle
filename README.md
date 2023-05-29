@@ -7,8 +7,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-- Use WFS on the perimeter map instead of WMS for the chosen products if available.
 - Better default names for saved orders (perimeter-type? location?, product?, formats?)
+
+## [1.0.7] - 2023-05-29
+### Added
+- Correct URL to wms from [Geolion](https://geolion.zh.ch)
+- Update OpenLayers to version 7.3.0
 
 ## [1.0.6] - 2021-05-16
 ### Added
