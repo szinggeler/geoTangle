@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 - Better default names for saved orders (perimeter-type? location?, product?, formats?)
 
+## [1.0.10] - 2026-02-10
+### Added
+- Better product list with highlighted filter expressions.
+
 ## [1.0.9] - 2025-03-25
 ### Added
 - Workaround for Blink browser engine (Chromium-based browsers incl. MS Edge, Chrome, Samsung, Opera...). Show scrollbarY in columns where needed.
