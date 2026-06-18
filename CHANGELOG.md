@@ -9,9 +9,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 - Better default names for saved orders (perimeter-type? location?, product?, formats?)
 
-## [1.0.9] - 2025-06-18
+
+## [1.0.11] - 2026-06-18
 ### Added
-- Modify product list presentation, show selected perimeter in shopping cart
+- Modified product list presentation, show selected perimeter in shopping cart
+
+## [1.0.10] - 2026-02-10
+### Added
+- Better product list with highlighted filter expressions.
+
+## [1.0.9] - 2025-03-25
+### Added
+- Workaround for Blink browser engine (Chromium-based browsers incl. MS Edge, Chrome, Samsung, Opera...). Show scrollbarY in columns where needed.
 
 ## [1.0.8] - 2025-02-13
 ### Added

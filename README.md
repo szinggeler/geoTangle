@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 - Better default names for saved orders (perimeter-type? location?, product?, formats?)
 
+## [1.0.11] - 2026-06-18
+### Added
+- Modified product list presentation, show selected perimeter in shopping cart
+
 ## [1.0.10] - 2026-02-10
 ### Added
 - Better product list with highlighted filter expressions.
