@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 - Better default names for saved orders (perimeter-type? location?, product?, formats?)
 
+## [1.0.9] - 2025-06-18
+### Added
+- Modify product list presentation, show selected perimeter in shopping cart
+
 ## [1.0.8] - 2025-02-13
 ### Added
 - Adjusted viewport height after chronium/edge update (no scrollbars if content is small enough)
